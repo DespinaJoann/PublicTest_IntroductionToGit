@@ -89,3 +89,16 @@ _`Push`: The git push command is used to update remote branches with the latest 
 
 > __``git branch [ branch-name ]``__:
 > Make a new branch and switch to it.
+
+
+# __HOW TO :__ simple patterns (command sewuence) to start.
+## `$` Commit changes and push up your content
+ 1. git status
+ 2. git add .
+ 3. git commit -m "your informative message"
+ 4. git push
+
+
+ ```
+ $   git pull  // to get all the changes that your partener or team did 
+ ```   
