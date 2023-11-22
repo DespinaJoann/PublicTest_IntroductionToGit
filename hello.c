@@ -4,6 +4,8 @@
 
 int main (int argc, char **argv) {
     // comment
-    printf("Hello world!");
+
+    // this is another comment
+    printf("Hello!");
     return 0;
 }
