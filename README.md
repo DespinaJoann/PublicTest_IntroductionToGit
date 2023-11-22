@@ -20,7 +20,7 @@ A testing repository to understund how git works
     ```
      git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
     ```
-  - press __Enter__ to actually create your own clone
+   - press __Enter__ to actually create your own clone
     ```
     $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
     > Cloning into `Spoon-Knife`...
