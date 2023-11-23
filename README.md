@@ -101,4 +101,12 @@ _`Push`: The git push command is used to update remote branches with the latest 
 
  ```
  $   git pull  // to get all the changes that your partener or team did 
- ```   
+ ```
+
+---
+
+# Tasks:
+- [1]. add 2 files in develop branch.
+- [2]. modify/ change the content of the `hello.c` file in main branch. Describe what you observe.
+- [3]. create a new branch add 2 files and name it `vaso`
+- [4]. merge your previous branch with develop.
